@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snigdha0313
 - 👀 I’m a product and data enthusiast.
-- 🌱 I’m currently learning Engineering Management at Texas State University, San Marcos, Texas.
-- 💞️ I’m looking to collaborate on webapps and AI/ML projects. 
+- 🌱 I’m currently looking for full-time job opportunities.
+- 💞️ I’m looking to collaborate on web apps and AI/ML projects. 
 - 📫 You can reach me at https://www.linkedin.com/in/snigdha-mishra/ 
 
 <!---
